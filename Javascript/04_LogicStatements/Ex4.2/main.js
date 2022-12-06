@@ -2,10 +2,13 @@
 let age = prompt("What is your age");
 Number(age);
 
+let message = "";
+
 if (age >= 21 ){
-    console.log("You can buy alcohol");
-}  else if (age <= 19) {
-    console.log("You cant buy alcohol");
+    message ="You can buy alcohol.";
+}  else if (age >= 19) {
+    message ="You can't buy alcohol but you can enter.";
 } else{
-    console.log("You cant buy alcohol")
+    message ="You can not enter.";
 }
+console.log(message);
