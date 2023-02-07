@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practice 8</title>
+</head>
+<body>
+
+   <p id="magic">I might disappear and appear!</p>
+   <button onclick="toggleDisplay(this)">Magic!</button>
+   <br>
+   <button id="changeTheme" onclick="lightDark()">Change theme!</button>
+
+  <script>
+    function toggleDisplay() {
+      let p = document.getElementById("magic");
+      if (p.style.display === "none") {
+        p.style.display = "block";
+      } else {
+        p.style.display = "none";
+      }
+    }
+
+    function lightDark() {
+      let p = document.getElementById("magic");
+      if (document.body.style.backgroundColor === "white") {
+        document.body.style.backgroundColor = "black";
+      } else {
+        document.body.style.backgroundColor = "white";
+      }
+    }
+    
+  </script>
+</body>
+</html>
