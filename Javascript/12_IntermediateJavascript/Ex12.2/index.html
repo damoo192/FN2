@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+	<title>12.2</title>
+</head>
+<body>
+
+<div class="output"></div>
+<input type="text" placeholder="Enter Email">
+<button>Check</button>
+
+<script>
+    const output = document.querySelector(".output");
+    const emailInp = document.querySelector(".input");
+    const button = document.querySelector(".button");
+    const mailformat = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+
+button.addEventListener("click," function () {
+    let value =  emailInp.value;
+    let  response = "";
+    console.log(mailformat.test(value));
+    if(mailformat.test(value)){
+        output.textContent = "Valid";
+    }else{
+        output.textContent = "not Valid";
+    }
+    
+
+})
+</script>
+</body>
+</html>
