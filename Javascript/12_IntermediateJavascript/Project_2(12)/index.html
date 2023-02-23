@@ -1,0 +1,82 @@
+<!doctype html>
+<html>
+<head>
+    <title>Project_2</title>
+    <style>
+        .hide{
+            display: none;
+        }
+        .error {
+            color: red;
+            font-size: 0.8em;
+            font-family: sans-serif;
+            font-style: italic;
+        }
+        input {
+            border-color: #ddd;
+            width: 400px;
+            display: block;
+            font-size: 1.5em;
+        }
+    </style>
+</head>
+<body>
+    <form name="myform"> Email :
+        <input type="text" name="email"> <span class="error hide"></span>
+        <br> Password :
+        <input type="password" name="password"> <span class="error hide"></span>
+        <br> User Name :
+        <input type="text" name="userName"> <span class="error hide"></span>
+        <br>
+        <input type="submit" value="Sign Up"> 
+    </form>
+<script>
+    const header = document.querySelector("h2");
+        if (localStorage.getItem("user")) {
+            let user = JSON.parse(localStorage.getItem("user"));
+            header.textContent = "Hello " + user.userName + "!";
+        }
+const myForm = document.querySelector("form");
+        const myInputs = document.querySelectorAll("input");
+        const myErrors = document.querySelectorAll(".error");
+        myForm.addEventListener("submit", function (event) {
+            event.preventDefault();
+            myErrors.forEach(el => {
+                el.classList.add("hide");
+            });
+            const emailInputValue = myInputs[0].value;
+            if (emailInputValue) {
+                const validatedEmail = emailInputValue.match(/([a-zA-Z0-9._-]+@[a-zA-Z0-9._-]+\.[a-zA-Z0-9._-]+)/gi);
+                if (!validatedEmail) {
+                    addError(myInputs[0], "Email not valid!");
+                }
+            }
+            else {
+                addError(myInputs[0], "Empty String!");
+            }
+            
+            const passInputValue = myInputs[1].value;
+            if (emailInputValue) {
+                const validatedPassword = passInputValue.match(/^[a-zA-Z0-9]{3,8}$/);
+                if (!validatedPassword) {
+                    addError(myInputs[1], "Password must be 3-8 characters and contain only letters and numbers!");
+                }
+            }
+            else {
+                addError(myInputs[1], "Empty String!");
+            }
+            const nameInputValue = myInputs[2].value;
+            if (!nameInputValue) {
+                addError(myInputs[2], "Empty String!");
+            }
+        });
+        
+        function addError(el, errorMsg) {
+            let errorSpan = el.nextElementSibling;
+            errorSpan.classList.remove("hide");
+            errorSpan.textContent = errorMsg;
+            el.focus();
+        }
+</script>
+</body>
+</html>

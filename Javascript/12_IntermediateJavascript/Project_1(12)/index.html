@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+    <title>Project_1</title>
+</head>
+<body>
+<textarea name="txtarea" rows=2 cols=50></textarea> 
+<button>Get Emails</button>
+<textarea name="txtarea2" rows=2 cols=50></textarea>
+<script>
+
+    const firstArea = document.getElementsByName("txtarea")[0];
+    const secondArea = document.getElementsByName("txtarea2")[0];
+    document.querySelector("button").addEventListener("click", function () {
+        const firstAreaContent = firstArea.value;
+        const email = firstAreaContent.match(/([a-zA-Z0-9._-]+@[a-zA-Z0-9._-]+\.[a-zA-Z0-9._-]+)/gi);
+    console.log(email);
+    const uniqueEmails = [""];
+    email.forEach(email =>{
+        if (!uniqueEmails.includes(email)){
+            uniqueEmails;push(email);
+        }
+    });
+    secondArea.value = uniqueEmails.join();
+    });
+
+</script>
+</body>
+</html>
