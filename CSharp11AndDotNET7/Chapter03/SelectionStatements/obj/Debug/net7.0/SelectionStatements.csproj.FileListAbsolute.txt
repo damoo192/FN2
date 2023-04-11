@@ -1,0 +1,15 @@
+C:\FN2\CSharp11AndDotNET7\Chapter03\SelectionStatements\bin\Debug\net7.0\SelectionStatements.exe
+C:\FN2\CSharp11AndDotNET7\Chapter03\SelectionStatements\bin\Debug\net7.0\SelectionStatements.deps.json
+C:\FN2\CSharp11AndDotNET7\Chapter03\SelectionStatements\bin\Debug\net7.0\SelectionStatements.runtimeconfig.json
+C:\FN2\CSharp11AndDotNET7\Chapter03\SelectionStatements\bin\Debug\net7.0\SelectionStatements.dll
+C:\FN2\CSharp11AndDotNET7\Chapter03\SelectionStatements\bin\Debug\net7.0\SelectionStatements.pdb
+C:\FN2\CSharp11AndDotNET7\Chapter03\SelectionStatements\obj\Debug\net7.0\SelectionStatements.csproj.AssemblyReference.cache
+C:\FN2\CSharp11AndDotNET7\Chapter03\SelectionStatements\obj\Debug\net7.0\SelectionStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\FN2\CSharp11AndDotNET7\Chapter03\SelectionStatements\obj\Debug\net7.0\SelectionStatements.AssemblyInfoInputs.cache
+C:\FN2\CSharp11AndDotNET7\Chapter03\SelectionStatements\obj\Debug\net7.0\SelectionStatements.AssemblyInfo.cs
+C:\FN2\CSharp11AndDotNET7\Chapter03\SelectionStatements\obj\Debug\net7.0\SelectionStatements.csproj.CoreCompileInputs.cache
+C:\FN2\CSharp11AndDotNET7\Chapter03\SelectionStatements\obj\Debug\net7.0\SelectionStatements.dll
+C:\FN2\CSharp11AndDotNET7\Chapter03\SelectionStatements\obj\Debug\net7.0\refint\SelectionStatements.dll
+C:\FN2\CSharp11AndDotNET7\Chapter03\SelectionStatements\obj\Debug\net7.0\SelectionStatements.pdb
+C:\FN2\CSharp11AndDotNET7\Chapter03\SelectionStatements\obj\Debug\net7.0\SelectionStatements.genruntimeconfig.cache
+C:\FN2\CSharp11AndDotNET7\Chapter03\SelectionStatements\obj\Debug\net7.0\ref\SelectionStatements.dll

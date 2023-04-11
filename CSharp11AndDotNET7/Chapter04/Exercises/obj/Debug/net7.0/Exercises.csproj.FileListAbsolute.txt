@@ -1,0 +1,15 @@
+C:\FN2\CSharp11AndDotNET7\Chapter04\Exercises\bin\Debug\net7.0\Exercises.exe
+C:\FN2\CSharp11AndDotNET7\Chapter04\Exercises\bin\Debug\net7.0\Exercises.deps.json
+C:\FN2\CSharp11AndDotNET7\Chapter04\Exercises\bin\Debug\net7.0\Exercises.runtimeconfig.json
+C:\FN2\CSharp11AndDotNET7\Chapter04\Exercises\bin\Debug\net7.0\Exercises.dll
+C:\FN2\CSharp11AndDotNET7\Chapter04\Exercises\bin\Debug\net7.0\Exercises.pdb
+C:\FN2\CSharp11AndDotNET7\Chapter04\Exercises\obj\Debug\net7.0\Exercises.csproj.AssemblyReference.cache
+C:\FN2\CSharp11AndDotNET7\Chapter04\Exercises\obj\Debug\net7.0\Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\FN2\CSharp11AndDotNET7\Chapter04\Exercises\obj\Debug\net7.0\Exercises.AssemblyInfoInputs.cache
+C:\FN2\CSharp11AndDotNET7\Chapter04\Exercises\obj\Debug\net7.0\Exercises.AssemblyInfo.cs
+C:\FN2\CSharp11AndDotNET7\Chapter04\Exercises\obj\Debug\net7.0\Exercises.csproj.CoreCompileInputs.cache
+C:\FN2\CSharp11AndDotNET7\Chapter04\Exercises\obj\Debug\net7.0\Exercises.dll
+C:\FN2\CSharp11AndDotNET7\Chapter04\Exercises\obj\Debug\net7.0\refint\Exercises.dll
+C:\FN2\CSharp11AndDotNET7\Chapter04\Exercises\obj\Debug\net7.0\Exercises.pdb
+C:\FN2\CSharp11AndDotNET7\Chapter04\Exercises\obj\Debug\net7.0\Exercises.genruntimeconfig.cache
+C:\FN2\CSharp11AndDotNET7\Chapter04\Exercises\obj\Debug\net7.0\ref\Exercises.dll

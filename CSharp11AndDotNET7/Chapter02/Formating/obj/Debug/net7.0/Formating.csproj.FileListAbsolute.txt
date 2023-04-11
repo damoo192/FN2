@@ -1,0 +1,15 @@
+C:\FN2\CSharp11AndDotNET7\Chapter02\Formating\bin\Debug\net7.0\Formating.exe
+C:\FN2\CSharp11AndDotNET7\Chapter02\Formating\bin\Debug\net7.0\Formating.deps.json
+C:\FN2\CSharp11AndDotNET7\Chapter02\Formating\bin\Debug\net7.0\Formating.runtimeconfig.json
+C:\FN2\CSharp11AndDotNET7\Chapter02\Formating\bin\Debug\net7.0\Formating.dll
+C:\FN2\CSharp11AndDotNET7\Chapter02\Formating\bin\Debug\net7.0\Formating.pdb
+C:\FN2\CSharp11AndDotNET7\Chapter02\Formating\obj\Debug\net7.0\Formating.csproj.AssemblyReference.cache
+C:\FN2\CSharp11AndDotNET7\Chapter02\Formating\obj\Debug\net7.0\Formating.GeneratedMSBuildEditorConfig.editorconfig
+C:\FN2\CSharp11AndDotNET7\Chapter02\Formating\obj\Debug\net7.0\Formating.AssemblyInfoInputs.cache
+C:\FN2\CSharp11AndDotNET7\Chapter02\Formating\obj\Debug\net7.0\Formating.AssemblyInfo.cs
+C:\FN2\CSharp11AndDotNET7\Chapter02\Formating\obj\Debug\net7.0\Formating.csproj.CoreCompileInputs.cache
+C:\FN2\CSharp11AndDotNET7\Chapter02\Formating\obj\Debug\net7.0\Formating.dll
+C:\FN2\CSharp11AndDotNET7\Chapter02\Formating\obj\Debug\net7.0\refint\Formating.dll
+C:\FN2\CSharp11AndDotNET7\Chapter02\Formating\obj\Debug\net7.0\Formating.pdb
+C:\FN2\CSharp11AndDotNET7\Chapter02\Formating\obj\Debug\net7.0\Formating.genruntimeconfig.cache
+C:\FN2\CSharp11AndDotNET7\Chapter02\Formating\obj\Debug\net7.0\ref\Formating.dll

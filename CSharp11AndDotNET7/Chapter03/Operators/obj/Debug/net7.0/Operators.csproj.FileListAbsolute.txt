@@ -1,0 +1,15 @@
+C:\FN2\CSharp11AndDotNET7\Chapter03\Operators\bin\Debug\net7.0\Operators.exe
+C:\FN2\CSharp11AndDotNET7\Chapter03\Operators\bin\Debug\net7.0\Operators.deps.json
+C:\FN2\CSharp11AndDotNET7\Chapter03\Operators\bin\Debug\net7.0\Operators.runtimeconfig.json
+C:\FN2\CSharp11AndDotNET7\Chapter03\Operators\bin\Debug\net7.0\Operators.dll
+C:\FN2\CSharp11AndDotNET7\Chapter03\Operators\bin\Debug\net7.0\Operators.pdb
+C:\FN2\CSharp11AndDotNET7\Chapter03\Operators\obj\Debug\net7.0\Operators.csproj.AssemblyReference.cache
+C:\FN2\CSharp11AndDotNET7\Chapter03\Operators\obj\Debug\net7.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\FN2\CSharp11AndDotNET7\Chapter03\Operators\obj\Debug\net7.0\Operators.AssemblyInfoInputs.cache
+C:\FN2\CSharp11AndDotNET7\Chapter03\Operators\obj\Debug\net7.0\Operators.AssemblyInfo.cs
+C:\FN2\CSharp11AndDotNET7\Chapter03\Operators\obj\Debug\net7.0\Operators.csproj.CoreCompileInputs.cache
+C:\FN2\CSharp11AndDotNET7\Chapter03\Operators\obj\Debug\net7.0\Operators.dll
+C:\FN2\CSharp11AndDotNET7\Chapter03\Operators\obj\Debug\net7.0\refint\Operators.dll
+C:\FN2\CSharp11AndDotNET7\Chapter03\Operators\obj\Debug\net7.0\Operators.pdb
+C:\FN2\CSharp11AndDotNET7\Chapter03\Operators\obj\Debug\net7.0\Operators.genruntimeconfig.cache
+C:\FN2\CSharp11AndDotNET7\Chapter03\Operators\obj\Debug\net7.0\ref\Operators.dll

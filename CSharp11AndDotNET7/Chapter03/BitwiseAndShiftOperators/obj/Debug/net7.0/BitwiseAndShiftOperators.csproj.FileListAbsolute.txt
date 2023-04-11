@@ -1,0 +1,15 @@
+C:\FN2\CSharp11AndDotNET7\Chapter03\BitwiseAndShiftOperators\bin\Debug\net7.0\BitwiseAndShiftOperators.exe
+C:\FN2\CSharp11AndDotNET7\Chapter03\BitwiseAndShiftOperators\bin\Debug\net7.0\BitwiseAndShiftOperators.deps.json
+C:\FN2\CSharp11AndDotNET7\Chapter03\BitwiseAndShiftOperators\bin\Debug\net7.0\BitwiseAndShiftOperators.runtimeconfig.json
+C:\FN2\CSharp11AndDotNET7\Chapter03\BitwiseAndShiftOperators\bin\Debug\net7.0\BitwiseAndShiftOperators.dll
+C:\FN2\CSharp11AndDotNET7\Chapter03\BitwiseAndShiftOperators\bin\Debug\net7.0\BitwiseAndShiftOperators.pdb
+C:\FN2\CSharp11AndDotNET7\Chapter03\BitwiseAndShiftOperators\obj\Debug\net7.0\BitwiseAndShiftOperators.csproj.AssemblyReference.cache
+C:\FN2\CSharp11AndDotNET7\Chapter03\BitwiseAndShiftOperators\obj\Debug\net7.0\BitwiseAndShiftOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\FN2\CSharp11AndDotNET7\Chapter03\BitwiseAndShiftOperators\obj\Debug\net7.0\BitwiseAndShiftOperators.AssemblyInfoInputs.cache
+C:\FN2\CSharp11AndDotNET7\Chapter03\BitwiseAndShiftOperators\obj\Debug\net7.0\BitwiseAndShiftOperators.AssemblyInfo.cs
+C:\FN2\CSharp11AndDotNET7\Chapter03\BitwiseAndShiftOperators\obj\Debug\net7.0\BitwiseAndShiftOperators.csproj.CoreCompileInputs.cache
+C:\FN2\CSharp11AndDotNET7\Chapter03\BitwiseAndShiftOperators\obj\Debug\net7.0\BitwiseAndShiftOperators.dll
+C:\FN2\CSharp11AndDotNET7\Chapter03\BitwiseAndShiftOperators\obj\Debug\net7.0\refint\BitwiseAndShiftOperators.dll
+C:\FN2\CSharp11AndDotNET7\Chapter03\BitwiseAndShiftOperators\obj\Debug\net7.0\BitwiseAndShiftOperators.pdb
+C:\FN2\CSharp11AndDotNET7\Chapter03\BitwiseAndShiftOperators\obj\Debug\net7.0\BitwiseAndShiftOperators.genruntimeconfig.cache
+C:\FN2\CSharp11AndDotNET7\Chapter03\BitwiseAndShiftOperators\obj\Debug\net7.0\ref\BitwiseAndShiftOperators.dll

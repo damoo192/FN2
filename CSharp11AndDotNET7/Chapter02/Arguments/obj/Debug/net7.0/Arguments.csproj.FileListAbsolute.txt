@@ -1,0 +1,15 @@
+C:\FN2\CSharp11AndDotNET7\Chapter02\Arguments\bin\Debug\net7.0\Arguments.exe
+C:\FN2\CSharp11AndDotNET7\Chapter02\Arguments\bin\Debug\net7.0\Arguments.deps.json
+C:\FN2\CSharp11AndDotNET7\Chapter02\Arguments\bin\Debug\net7.0\Arguments.runtimeconfig.json
+C:\FN2\CSharp11AndDotNET7\Chapter02\Arguments\bin\Debug\net7.0\Arguments.dll
+C:\FN2\CSharp11AndDotNET7\Chapter02\Arguments\bin\Debug\net7.0\Arguments.pdb
+C:\FN2\CSharp11AndDotNET7\Chapter02\Arguments\obj\Debug\net7.0\Arguments.csproj.AssemblyReference.cache
+C:\FN2\CSharp11AndDotNET7\Chapter02\Arguments\obj\Debug\net7.0\Arguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\FN2\CSharp11AndDotNET7\Chapter02\Arguments\obj\Debug\net7.0\Arguments.AssemblyInfoInputs.cache
+C:\FN2\CSharp11AndDotNET7\Chapter02\Arguments\obj\Debug\net7.0\Arguments.AssemblyInfo.cs
+C:\FN2\CSharp11AndDotNET7\Chapter02\Arguments\obj\Debug\net7.0\Arguments.csproj.CoreCompileInputs.cache
+C:\FN2\CSharp11AndDotNET7\Chapter02\Arguments\obj\Debug\net7.0\Arguments.dll
+C:\FN2\CSharp11AndDotNET7\Chapter02\Arguments\obj\Debug\net7.0\refint\Arguments.dll
+C:\FN2\CSharp11AndDotNET7\Chapter02\Arguments\obj\Debug\net7.0\Arguments.pdb
+C:\FN2\CSharp11AndDotNET7\Chapter02\Arguments\obj\Debug\net7.0\Arguments.genruntimeconfig.cache
+C:\FN2\CSharp11AndDotNET7\Chapter02\Arguments\obj\Debug\net7.0\ref\Arguments.dll

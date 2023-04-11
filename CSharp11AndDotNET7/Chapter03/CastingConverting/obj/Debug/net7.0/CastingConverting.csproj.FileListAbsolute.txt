@@ -1,0 +1,5 @@
+C:\FN2\CSharp11AndDotNET7\Chapter03\CastingConverting\obj\Debug\net7.0\CastingConverting.csproj.AssemblyReference.cache
+C:\FN2\CSharp11AndDotNET7\Chapter03\CastingConverting\obj\Debug\net7.0\CastingConverting.GeneratedMSBuildEditorConfig.editorconfig
+C:\FN2\CSharp11AndDotNET7\Chapter03\CastingConverting\obj\Debug\net7.0\CastingConverting.AssemblyInfoInputs.cache
+C:\FN2\CSharp11AndDotNET7\Chapter03\CastingConverting\obj\Debug\net7.0\CastingConverting.AssemblyInfo.cs
+C:\FN2\CSharp11AndDotNET7\Chapter03\CastingConverting\obj\Debug\net7.0\CastingConverting.csproj.CoreCompileInputs.cache

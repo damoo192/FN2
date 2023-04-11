@@ -1,0 +1,15 @@
+C:\FN2\CSharp11AndDotNET7\Chapter02\AsyncConsole\obj\Debug\net7.0\AsyncConsole.csproj.AssemblyReference.cache
+C:\FN2\CSharp11AndDotNET7\Chapter02\AsyncConsole\obj\Debug\net7.0\AsyncConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\FN2\CSharp11AndDotNET7\Chapter02\AsyncConsole\obj\Debug\net7.0\AsyncConsole.AssemblyInfoInputs.cache
+C:\FN2\CSharp11AndDotNET7\Chapter02\AsyncConsole\obj\Debug\net7.0\AsyncConsole.AssemblyInfo.cs
+C:\FN2\CSharp11AndDotNET7\Chapter02\AsyncConsole\obj\Debug\net7.0\AsyncConsole.csproj.CoreCompileInputs.cache
+C:\FN2\CSharp11AndDotNET7\Chapter02\AsyncConsole\bin\Debug\net7.0\AsyncConsole.exe
+C:\FN2\CSharp11AndDotNET7\Chapter02\AsyncConsole\bin\Debug\net7.0\AsyncConsole.deps.json
+C:\FN2\CSharp11AndDotNET7\Chapter02\AsyncConsole\bin\Debug\net7.0\AsyncConsole.runtimeconfig.json
+C:\FN2\CSharp11AndDotNET7\Chapter02\AsyncConsole\bin\Debug\net7.0\AsyncConsole.dll
+C:\FN2\CSharp11AndDotNET7\Chapter02\AsyncConsole\bin\Debug\net7.0\AsyncConsole.pdb
+C:\FN2\CSharp11AndDotNET7\Chapter02\AsyncConsole\obj\Debug\net7.0\AsyncConsole.dll
+C:\FN2\CSharp11AndDotNET7\Chapter02\AsyncConsole\obj\Debug\net7.0\refint\AsyncConsole.dll
+C:\FN2\CSharp11AndDotNET7\Chapter02\AsyncConsole\obj\Debug\net7.0\AsyncConsole.pdb
+C:\FN2\CSharp11AndDotNET7\Chapter02\AsyncConsole\obj\Debug\net7.0\AsyncConsole.genruntimeconfig.cache
+C:\FN2\CSharp11AndDotNET7\Chapter02\AsyncConsole\obj\Debug\net7.0\ref\AsyncConsole.dll
