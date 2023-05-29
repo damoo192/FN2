@@ -1,0 +1,36 @@
+C:\Users\Srezovski\OneDrive\CA\FullStackDotNet\Repo\03_Charp_And_DotNET\CSharp11_And_NET 7\CSharp11DotNET 7\Chapter05\PeopleApp\obj\Debug\net7.0\PeopleApp.csproj.AssemblyReference.cache
+C:\Users\Srezovski\OneDrive\CA\FullStackDotNet\Repo\03_Charp_And_DotNET\CSharp11_And_NET 7\CSharp11DotNET 7\Chapter05\PeopleApp\obj\Debug\net7.0\PeopleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Srezovski\OneDrive\CA\FullStackDotNet\Repo\03_Charp_And_DotNET\CSharp11_And_NET 7\CSharp11DotNET 7\Chapter05\PeopleApp\obj\Debug\net7.0\PeopleApp.AssemblyInfoInputs.cache
+C:\Users\Srezovski\OneDrive\CA\FullStackDotNet\Repo\03_Charp_And_DotNET\CSharp11_And_NET 7\CSharp11DotNET 7\Chapter05\PeopleApp\obj\Debug\net7.0\PeopleApp.AssemblyInfo.cs
+C:\Users\Srezovski\OneDrive\CA\FullStackDotNet\Repo\03_Charp_And_DotNET\CSharp11_And_NET 7\CSharp11DotNET 7\Chapter05\PeopleApp\obj\Debug\net7.0\PeopleApp.csproj.CoreCompileInputs.cache
+C:\Users\Srezovski\OneDrive\CA\FullStackDotNet\Repo\03_Charp_And_DotNET\CSharp11_And_NET 7\CSharp11DotNET 7\Chapter05\PeopleApp\bin\Debug\net7.0\PeopleApp.exe
+C:\Users\Srezovski\OneDrive\CA\FullStackDotNet\Repo\03_Charp_And_DotNET\CSharp11_And_NET 7\CSharp11DotNET 7\Chapter05\PeopleApp\bin\Debug\net7.0\PeopleApp.deps.json
+C:\Users\Srezovski\OneDrive\CA\FullStackDotNet\Repo\03_Charp_And_DotNET\CSharp11_And_NET 7\CSharp11DotNET 7\Chapter05\PeopleApp\bin\Debug\net7.0\PeopleApp.runtimeconfig.json
+C:\Users\Srezovski\OneDrive\CA\FullStackDotNet\Repo\03_Charp_And_DotNET\CSharp11_And_NET 7\CSharp11DotNET 7\Chapter05\PeopleApp\bin\Debug\net7.0\PeopleApp.dll
+C:\Users\Srezovski\OneDrive\CA\FullStackDotNet\Repo\03_Charp_And_DotNET\CSharp11_And_NET 7\CSharp11DotNET 7\Chapter05\PeopleApp\bin\Debug\net7.0\PeopleApp.pdb
+C:\Users\Srezovski\OneDrive\CA\FullStackDotNet\Repo\03_Charp_And_DotNET\CSharp11_And_NET 7\CSharp11DotNET 7\Chapter05\PeopleApp\bin\Debug\net7.0\PacktLibraryNetStandard2.dll
+C:\Users\Srezovski\OneDrive\CA\FullStackDotNet\Repo\03_Charp_And_DotNET\CSharp11_And_NET 7\CSharp11DotNET 7\Chapter05\PeopleApp\bin\Debug\net7.0\PacktLibraryNetStandard2.pdb
+C:\Users\Srezovski\OneDrive\CA\FullStackDotNet\Repo\03_Charp_And_DotNET\CSharp11_And_NET 7\CSharp11DotNET 7\Chapter05\PeopleApp\obj\Debug\net7.0\PeopleApp.csproj.CopyComplete
+C:\Users\Srezovski\OneDrive\CA\FullStackDotNet\Repo\03_Charp_And_DotNET\CSharp11_And_NET 7\CSharp11DotNET 7\Chapter05\PeopleApp\obj\Debug\net7.0\PeopleApp.dll
+C:\Users\Srezovski\OneDrive\CA\FullStackDotNet\Repo\03_Charp_And_DotNET\CSharp11_And_NET 7\CSharp11DotNET 7\Chapter05\PeopleApp\obj\Debug\net7.0\refint\PeopleApp.dll
+C:\Users\Srezovski\OneDrive\CA\FullStackDotNet\Repo\03_Charp_And_DotNET\CSharp11_And_NET 7\CSharp11DotNET 7\Chapter05\PeopleApp\obj\Debug\net7.0\PeopleApp.pdb
+C:\Users\Srezovski\OneDrive\CA\FullStackDotNet\Repo\03_Charp_And_DotNET\CSharp11_And_NET 7\CSharp11DotNET 7\Chapter05\PeopleApp\obj\Debug\net7.0\PeopleApp.genruntimeconfig.cache
+C:\Users\Srezovski\OneDrive\CA\FullStackDotNet\Repo\03_Charp_And_DotNET\CSharp11_And_NET 7\CSharp11DotNET 7\Chapter05\PeopleApp\obj\Debug\net7.0\ref\PeopleApp.dll
+C:\FN2\CSharp11AndDotNET7\Chapter05\PeopleApp\bin\Debug\net7.0\PeopleApp.exe
+C:\FN2\CSharp11AndDotNET7\Chapter05\PeopleApp\bin\Debug\net7.0\PeopleApp.deps.json
+C:\FN2\CSharp11AndDotNET7\Chapter05\PeopleApp\bin\Debug\net7.0\PeopleApp.runtimeconfig.json
+C:\FN2\CSharp11AndDotNET7\Chapter05\PeopleApp\bin\Debug\net7.0\PeopleApp.dll
+C:\FN2\CSharp11AndDotNET7\Chapter05\PeopleApp\bin\Debug\net7.0\PeopleApp.pdb
+C:\FN2\CSharp11AndDotNET7\Chapter05\PeopleApp\bin\Debug\net7.0\PacktLibraryNetStandard2.dll
+C:\FN2\CSharp11AndDotNET7\Chapter05\PeopleApp\bin\Debug\net7.0\PacktLibraryNetStandard2.pdb
+C:\FN2\CSharp11AndDotNET7\Chapter05\PeopleApp\obj\Debug\net7.0\PeopleApp.csproj.AssemblyReference.cache
+C:\FN2\CSharp11AndDotNET7\Chapter05\PeopleApp\obj\Debug\net7.0\PeopleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\FN2\CSharp11AndDotNET7\Chapter05\PeopleApp\obj\Debug\net7.0\PeopleApp.AssemblyInfoInputs.cache
+C:\FN2\CSharp11AndDotNET7\Chapter05\PeopleApp\obj\Debug\net7.0\PeopleApp.AssemblyInfo.cs
+C:\FN2\CSharp11AndDotNET7\Chapter05\PeopleApp\obj\Debug\net7.0\PeopleApp.csproj.CoreCompileInputs.cache
+C:\FN2\CSharp11AndDotNET7\Chapter05\PeopleApp\obj\Debug\net7.0\PeopleApp.csproj.CopyComplete
+C:\FN2\CSharp11AndDotNET7\Chapter05\PeopleApp\obj\Debug\net7.0\PeopleApp.dll
+C:\FN2\CSharp11AndDotNET7\Chapter05\PeopleApp\obj\Debug\net7.0\refint\PeopleApp.dll
+C:\FN2\CSharp11AndDotNET7\Chapter05\PeopleApp\obj\Debug\net7.0\PeopleApp.pdb
+C:\FN2\CSharp11AndDotNET7\Chapter05\PeopleApp\obj\Debug\net7.0\PeopleApp.genruntimeconfig.cache
+C:\FN2\CSharp11AndDotNET7\Chapter05\PeopleApp\obj\Debug\net7.0\ref\PeopleApp.dll

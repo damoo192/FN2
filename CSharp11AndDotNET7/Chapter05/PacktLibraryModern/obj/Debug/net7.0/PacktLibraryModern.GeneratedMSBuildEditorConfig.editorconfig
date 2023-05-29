@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PacktLibraryModern
+build_property.ProjectDir = C:\Users\Srezovski\OneDrive\CA\FullStackDotNet\Repo\03_Charp_And_DotNET\CSharp11_And_NET 7\CSharp11DotNET 7\Chapter05\PacktLibraryModern\

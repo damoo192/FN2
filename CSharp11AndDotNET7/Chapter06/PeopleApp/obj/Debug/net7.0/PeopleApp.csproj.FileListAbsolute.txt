@@ -1,0 +1,15 @@
+C:\FN2\CSharp11AndDotNET7\Chapter06\PeopleApp\obj\Debug\net7.0\PeopleApp.csproj.AssemblyReference.cache
+C:\FN2\CSharp11AndDotNET7\Chapter06\PeopleApp\obj\Debug\net7.0\PeopleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\FN2\CSharp11AndDotNET7\Chapter06\PeopleApp\obj\Debug\net7.0\PeopleApp.AssemblyInfoInputs.cache
+C:\FN2\CSharp11AndDotNET7\Chapter06\PeopleApp\obj\Debug\net7.0\PeopleApp.AssemblyInfo.cs
+C:\FN2\CSharp11AndDotNET7\Chapter06\PeopleApp\obj\Debug\net7.0\PeopleApp.csproj.CoreCompileInputs.cache
+C:\FN2\CSharp11AndDotNET7\Chapter06\PeopleApp\bin\Debug\net7.0\PeopleApp.exe
+C:\FN2\CSharp11AndDotNET7\Chapter06\PeopleApp\bin\Debug\net7.0\PeopleApp.deps.json
+C:\FN2\CSharp11AndDotNET7\Chapter06\PeopleApp\bin\Debug\net7.0\PeopleApp.runtimeconfig.json
+C:\FN2\CSharp11AndDotNET7\Chapter06\PeopleApp\bin\Debug\net7.0\PeopleApp.dll
+C:\FN2\CSharp11AndDotNET7\Chapter06\PeopleApp\bin\Debug\net7.0\PeopleApp.pdb
+C:\FN2\CSharp11AndDotNET7\Chapter06\PeopleApp\obj\Debug\net7.0\PeopleApp.dll
+C:\FN2\CSharp11AndDotNET7\Chapter06\PeopleApp\obj\Debug\net7.0\refint\PeopleApp.dll
+C:\FN2\CSharp11AndDotNET7\Chapter06\PeopleApp\obj\Debug\net7.0\PeopleApp.pdb
+C:\FN2\CSharp11AndDotNET7\Chapter06\PeopleApp\obj\Debug\net7.0\PeopleApp.genruntimeconfig.cache
+C:\FN2\CSharp11AndDotNET7\Chapter06\PeopleApp\obj\Debug\net7.0\ref\PeopleApp.dll

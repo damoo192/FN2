@@ -1,0 +1,1 @@
+C:\FN2\CSharp11AndDotNET7\CompanyApp\CompanyApp\CompanyApp.csproj;x64

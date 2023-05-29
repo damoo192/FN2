@@ -1,0 +1,15 @@
+C:\FN2\CSharp11AndDotNET7\Chapter09\WorkingWhitFileSystems\bin\Debug\net7.0\WorkingWhitFileSystems.exe
+C:\FN2\CSharp11AndDotNET7\Chapter09\WorkingWhitFileSystems\bin\Debug\net7.0\WorkingWhitFileSystems.deps.json
+C:\FN2\CSharp11AndDotNET7\Chapter09\WorkingWhitFileSystems\bin\Debug\net7.0\WorkingWhitFileSystems.runtimeconfig.json
+C:\FN2\CSharp11AndDotNET7\Chapter09\WorkingWhitFileSystems\bin\Debug\net7.0\WorkingWhitFileSystems.dll
+C:\FN2\CSharp11AndDotNET7\Chapter09\WorkingWhitFileSystems\bin\Debug\net7.0\WorkingWhitFileSystems.pdb
+C:\FN2\CSharp11AndDotNET7\Chapter09\WorkingWhitFileSystems\obj\Debug\net7.0\WorkingWhitFileSystems.csproj.AssemblyReference.cache
+C:\FN2\CSharp11AndDotNET7\Chapter09\WorkingWhitFileSystems\obj\Debug\net7.0\WorkingWhitFileSystems.GeneratedMSBuildEditorConfig.editorconfig
+C:\FN2\CSharp11AndDotNET7\Chapter09\WorkingWhitFileSystems\obj\Debug\net7.0\WorkingWhitFileSystems.AssemblyInfoInputs.cache
+C:\FN2\CSharp11AndDotNET7\Chapter09\WorkingWhitFileSystems\obj\Debug\net7.0\WorkingWhitFileSystems.AssemblyInfo.cs
+C:\FN2\CSharp11AndDotNET7\Chapter09\WorkingWhitFileSystems\obj\Debug\net7.0\WorkingWhitFileSystems.csproj.CoreCompileInputs.cache
+C:\FN2\CSharp11AndDotNET7\Chapter09\WorkingWhitFileSystems\obj\Debug\net7.0\WorkingWhitFileSystems.dll
+C:\FN2\CSharp11AndDotNET7\Chapter09\WorkingWhitFileSystems\obj\Debug\net7.0\refint\WorkingWhitFileSystems.dll
+C:\FN2\CSharp11AndDotNET7\Chapter09\WorkingWhitFileSystems\obj\Debug\net7.0\WorkingWhitFileSystems.pdb
+C:\FN2\CSharp11AndDotNET7\Chapter09\WorkingWhitFileSystems\obj\Debug\net7.0\WorkingWhitFileSystems.genruntimeconfig.cache
+C:\FN2\CSharp11AndDotNET7\Chapter09\WorkingWhitFileSystems\obj\Debug\net7.0\ref\WorkingWhitFileSystems.dll

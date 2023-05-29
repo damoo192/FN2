@@ -1,0 +1,15 @@
+C:\FN2\CSharp11AndDotNET7\ConsoleApp1\Quiz_25_09_2022\bin\Debug\net7.0\Quizz.exe
+C:\FN2\CSharp11AndDotNET7\ConsoleApp1\Quiz_25_09_2022\bin\Debug\net7.0\Quizz.deps.json
+C:\FN2\CSharp11AndDotNET7\ConsoleApp1\Quiz_25_09_2022\bin\Debug\net7.0\Quizz.runtimeconfig.json
+C:\FN2\CSharp11AndDotNET7\ConsoleApp1\Quiz_25_09_2022\bin\Debug\net7.0\Quizz.dll
+C:\FN2\CSharp11AndDotNET7\ConsoleApp1\Quiz_25_09_2022\bin\Debug\net7.0\Quizz.pdb
+C:\FN2\CSharp11AndDotNET7\ConsoleApp1\Quiz_25_09_2022\obj\Debug\net7.0\Quizz.csproj.AssemblyReference.cache
+C:\FN2\CSharp11AndDotNET7\ConsoleApp1\Quiz_25_09_2022\obj\Debug\net7.0\Quizz.GeneratedMSBuildEditorConfig.editorconfig
+C:\FN2\CSharp11AndDotNET7\ConsoleApp1\Quiz_25_09_2022\obj\Debug\net7.0\Quizz.AssemblyInfoInputs.cache
+C:\FN2\CSharp11AndDotNET7\ConsoleApp1\Quiz_25_09_2022\obj\Debug\net7.0\Quizz.AssemblyInfo.cs
+C:\FN2\CSharp11AndDotNET7\ConsoleApp1\Quiz_25_09_2022\obj\Debug\net7.0\Quizz.csproj.CoreCompileInputs.cache
+C:\FN2\CSharp11AndDotNET7\ConsoleApp1\Quiz_25_09_2022\obj\Debug\net7.0\Quizz.dll
+C:\FN2\CSharp11AndDotNET7\ConsoleApp1\Quiz_25_09_2022\obj\Debug\net7.0\refint\Quizz.dll
+C:\FN2\CSharp11AndDotNET7\ConsoleApp1\Quiz_25_09_2022\obj\Debug\net7.0\Quizz.pdb
+C:\FN2\CSharp11AndDotNET7\ConsoleApp1\Quiz_25_09_2022\obj\Debug\net7.0\Quizz.genruntimeconfig.cache
+C:\FN2\CSharp11AndDotNET7\ConsoleApp1\Quiz_25_09_2022\obj\Debug\net7.0\ref\Quizz.dll
