@@ -1,0 +1,15 @@
+C:\CSharp11andDotNET7\PracticalApp\Northwind.Common.DataContext.SqlServer\bin\Debug\net7.0\Northwind.Common.DataContext.SqlServer.deps.json
+C:\CSharp11andDotNET7\PracticalApp\Northwind.Common.DataContext.SqlServer\bin\Debug\net7.0\Northwind.Common.DataContext.SqlServer.dll
+C:\CSharp11andDotNET7\PracticalApp\Northwind.Common.DataContext.SqlServer\bin\Debug\net7.0\Northwind.Common.DataContext.SqlServer.pdb
+C:\CSharp11andDotNET7\PracticalApp\Northwind.Common.DataContext.SqlServer\bin\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.dll
+C:\CSharp11andDotNET7\PracticalApp\Northwind.Common.DataContext.SqlServer\bin\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.pdb
+C:\CSharp11andDotNET7\PracticalApp\Northwind.Common.DataContext.SqlServer\obj\Debug\net7.0\Northwind.Common.DataContext.SqlServer.csproj.AssemblyReference.cache
+C:\CSharp11andDotNET7\PracticalApp\Northwind.Common.DataContext.SqlServer\obj\Debug\net7.0\Northwind.Common.DataContext.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp11andDotNET7\PracticalApp\Northwind.Common.DataContext.SqlServer\obj\Debug\net7.0\Northwind.Common.DataContext.SqlServer.AssemblyInfoInputs.cache
+C:\CSharp11andDotNET7\PracticalApp\Northwind.Common.DataContext.SqlServer\obj\Debug\net7.0\Northwind.Common.DataContext.SqlServer.AssemblyInfo.cs
+C:\CSharp11andDotNET7\PracticalApp\Northwind.Common.DataContext.SqlServer\obj\Debug\net7.0\Northwind.Common.DataContext.SqlServer.csproj.CoreCompileInputs.cache
+C:\CSharp11andDotNET7\PracticalApp\Northwind.Common.DataContext.SqlServer\obj\Debug\net7.0\Northwind.Common.DataContext.SqlServer.csproj.CopyComplete
+C:\CSharp11andDotNET7\PracticalApp\Northwind.Common.DataContext.SqlServer\obj\Debug\net7.0\Northwind.Common.DataContext.SqlServer.dll
+C:\CSharp11andDotNET7\PracticalApp\Northwind.Common.DataContext.SqlServer\obj\Debug\net7.0\refint\Northwind.Common.DataContext.SqlServer.dll
+C:\CSharp11andDotNET7\PracticalApp\Northwind.Common.DataContext.SqlServer\obj\Debug\net7.0\Northwind.Common.DataContext.SqlServer.pdb
+C:\CSharp11andDotNET7\PracticalApp\Northwind.Common.DataContext.SqlServer\obj\Debug\net7.0\ref\Northwind.Common.DataContext.SqlServer.dll

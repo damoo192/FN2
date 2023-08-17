@@ -1,0 +1,629 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Ogani.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Ogani.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\banner\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\blog\\details\\details-author.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\details-author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\blog\\details\\details-hero.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\details-hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\blog\\details\\details-pic.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\details-pic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\blog\\sidebar\\sr-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\sidebar\\sr-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\blog\\sidebar\\sr-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\sidebar\\sr-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\blog\\sidebar\\sr-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\sidebar\\sr-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\breadcrumb.jpg",
+      "PackagePath": "staticwebassets\\img\\breadcrumb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\cart\\cart-1.jpg",
+      "PackagePath": "staticwebassets\\img\\cart\\cart-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\cart\\cart-2.jpg",
+      "PackagePath": "staticwebassets\\img\\cart\\cart-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\cart\\cart-3.jpg",
+      "PackagePath": "staticwebassets\\img\\cart\\cart-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\categories\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\cat-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\categories\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\cat-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\categories\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\cat-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\categories\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\cat-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\categories\\cat-5.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\cat-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\featured\\feature-1.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\featured\\feature-2.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\featured\\feature-3.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\featured\\feature-4.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\featured\\feature-5.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\featured\\feature-6.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\featured\\feature-7.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\featured\\feature-8.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\hero\\banner.jpg",
+      "PackagePath": "staticwebassets\\img\\hero\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\language.png",
+      "PackagePath": "staticwebassets\\img\\language.png"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\latest-product\\lp-1.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-product\\lp-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\latest-product\\lp-2.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-product\\lp-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\latest-product\\lp-3.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-product\\lp-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\payment-item.png",
+      "PackagePath": "staticwebassets\\img\\payment-item.png"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\product\\details\\product-details-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\product-details-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\product\\details\\product-details-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\product-details-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\product\\details\\product-details-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\product-details-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\product\\details\\product-details-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\product-details-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\product\\details\\product-details-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\product-details-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\product\\details\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\product\\details\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\product\\details\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\product\\details\\thumb-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\thumb-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\product\\discount\\pd-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\product\\discount\\pd-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\product\\discount\\pd-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\product\\discount\\pd-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\product\\discount\\pd-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\product\\discount\\pd-6.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\product\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\product\\product-10.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\product\\product-11.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\product\\product-12.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\product\\product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\product\\product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\product\\product-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\product\\product-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\product\\product-6.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\product\\product-7.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\product\\product-8.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\img\\product\\product-9.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\boban\\OneDrive\\CA-Classes\\FN2\\Repo\\Csharp11DotNet7\\Exercises\\Ogani\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Ogani.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Ogani.props",
+      "PackagePath": "build\\Ogani.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Ogani.props",
+      "PackagePath": "buildMultiTargeting\\Ogani.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Ogani.props",
+      "PackagePath": "buildTransitive\\Ogani.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

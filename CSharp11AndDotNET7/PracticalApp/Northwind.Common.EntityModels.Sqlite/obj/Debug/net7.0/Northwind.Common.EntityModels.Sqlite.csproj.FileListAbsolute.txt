@@ -1,0 +1,15 @@
+C:\CSharp11andDotNET7\PracticalApp\Northwind.Common.EntityModels.Sqlite\bin\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.deps.json
+C:\CSharp11andDotNET7\PracticalApp\Northwind.Common.EntityModels.Sqlite\bin\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.dll
+C:\CSharp11andDotNET7\PracticalApp\Northwind.Common.EntityModels.Sqlite\bin\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.pdb
+C:\CSharp11andDotNET7\PracticalApp\Northwind.Common.EntityModels.Sqlite\obj\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.csproj.AssemblyReference.cache
+C:\CSharp11andDotNET7\PracticalApp\Northwind.Common.EntityModels.Sqlite\obj\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp11andDotNET7\PracticalApp\Northwind.Common.EntityModels.Sqlite\obj\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.AssemblyInfoInputs.cache
+C:\CSharp11andDotNET7\PracticalApp\Northwind.Common.EntityModels.Sqlite\obj\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.AssemblyInfo.cs
+C:\CSharp11andDotNET7\PracticalApp\Northwind.Common.EntityModels.Sqlite\obj\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.csproj.CoreCompileInputs.cache
+C:\CSharp11andDotNET7\PracticalApp\Northwind.Common.EntityModels.Sqlite\obj\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.dll
+C:\CSharp11andDotNET7\PracticalApp\Northwind.Common.EntityModels.Sqlite\obj\Debug\net7.0\refint\Northwind.Common.EntityModels.Sqlite.dll
+C:\CSharp11andDotNET7\PracticalApp\Northwind.Common.EntityModels.Sqlite\obj\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.pdb
+C:\CSharp11andDotNET7\PracticalApp\Northwind.Common.EntityModels.Sqlite\obj\Debug\net7.0\ref\Northwind.Common.EntityModels.Sqlite.dll
+C:\CSharp11andDotNET7\PracticalApp\Northwind.Common.EntityModels.Sqlite\bin\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.runtimeconfig.json
+C:\CSharp11andDotNET7\PracticalApp\Northwind.Common.EntityModels.Sqlite\obj\Debug\net7.0\Northwind.Common.EntityModels.Sqlite.genruntimeconfig.cache
+C:\CSharp11andDotNET7\PracticalApp\Northwind.Common.EntityModels.Sqlite\bin\Debug\net7.0\Database\Northwind.db

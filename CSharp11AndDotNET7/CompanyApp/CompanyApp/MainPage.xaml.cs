@@ -13,7 +13,10 @@ public partial class MainPage : ContentPage
 
 	public List<Test> customList { get; set; } = new List<Test>() { new() { MyProperty = "Itam1" }, new() { MyProperty = "Itam2" }, new() { MyProperty = "Itam3" } };
 
-
+	private async void ToolbarItem_Clicked(object sender, EventArgs e)
+	{
+		await Navigation.PushAsync(new RegistrationPage());
+	}
 }
 
 public class Test
